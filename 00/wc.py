@@ -25,7 +25,6 @@ def get_word_count(list_of_lines):
 
 
 if __name__ == '__main__':
-
     try:
         content = read_file(sys.argv[1])
 
